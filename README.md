@@ -30,3 +30,8 @@ What started as a local experiment using **OpenCV** and **Python** has been tran
 3. **Inference:** The **VGG16** model analyzes the image for face mask patterns.
 4. **Display:** The app receives the prediction and displays a visual "Verified" or "Warning" status using a modern animated UI.
 
+
+## 🤗 Hugging Face API 
+https://ali-hamza-007-face-mask-detector.hf.space/predict
+
+
