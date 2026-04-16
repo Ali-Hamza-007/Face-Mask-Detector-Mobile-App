@@ -38,3 +38,7 @@ What started as a local experiment using **OpenCV** and **Python** has been tran
 https://ali-hamza-007-face-mask-detector.hf.space/predict
 
 
+## 📷 Screenshots
+![Screen1](assets/App Images.jpeg)
+
+
