@@ -3,7 +3,7 @@ It is a high-performance mobile application that leverages Deep Learning to dete
 
 ---
 ## 🏆 Motivation
-First I have build the Model and Train it as a local and I have noticed that It has to run or load the model again and agian and So, I decided to Improve it and Hosted my customed-trained model on Hugging Face and use it's API into my Flutter Mobile App for Better Exprience .
+First,in my previous GitHub repository (Face-Mask-Detector) I have build the Model and Train it as a local and I have noticed that It has to run or load the model again and agian and So, I decided to Improve it and Hosted my customed-trained model on Hugging Face and use it's API into my Flutter Mobile App for Better Exprience .
 
 
 ## 🚀 The Journey: From Script to App
