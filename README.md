@@ -2,6 +2,8 @@
 It is a high-performance mobile application that leverages Deep Learning to detect face masks in real-time. Originally developed as a Python-based computer vision script, it has evolved into a sleek, cloud-integrated mobile solution.
 
 ---
+### First I have build the Model and Train it as a local and I have noticed that It has to run or load the model again and agian and So, I decided to Improve it and Hosted my customed-trained model on Hugging Face and use it's API into my Flutter Mobile App for Better Exprience .
+
 
 ## 🚀 The Journey: From Script to App
 What started as a local experiment using **OpenCV** and **Python** has been transformed into a professional mobile application. 
