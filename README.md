@@ -39,6 +39,6 @@ https://ali-hamza-007-face-mask-detector.hf.space/predict
 
 
 ## 📷 Screenshots
-![Screen1](assets/App Images.jpeg)
+![Screen1](assets/App_Images.jpeg)
 
 
